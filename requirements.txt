@@ -5,7 +5,6 @@ flask
 pillow
 catboost
 dvc
-catboost
 xgboost
 seaborn
 -e .
